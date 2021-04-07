@@ -1,0 +1,386 @@
+
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.wrapper {
+	width: 1170px;
+	margin: auto;
+}
+
+
+.nav-area {
+	float: right;
+	list-style: none;
+	margin-top: 30px;
+}
+.nav-area li {
+	display: inline-block;
+}
+.nav-area li a {
+	color: #fff;
+	text-decoration: none;
+	padding: 5px 20px;
+	font-family: poppins;
+	font-size: 16px;
+	text-transform: uppercase;
+}
+.nav-area li a:hover {
+	background: #fff;
+	color: #333;
+}
+
+.career{
+	
+	position: absolute;
+	top: 14%;
+	left: 0%;
+	font-size: 40px;
+	color: black;
+	font-weight: bolder;
+	/* text-align: center; */
+}
+
+.career_para{
+	position: absolute;
+	top: 24%;
+	left: 1%;
+	right: 70%;
+	font-size: 20px;
+	color: black;
+	font-weight: 500;
+	text-align: left;
+}
+
+.image{
+	position: absolute;
+  top: 15%;
+  left: 90px;
+	right: 10px
+
+}
+
+.career1{
+	position: absolute;
+	top: 41%;
+	left: 1%;
+	font-size: 25px;
+	color:black;
+	font-weight: bolder;
+	text-align: center;
+}
+
+.career2{
+	position: absolute;
+	top: 50%;
+	left: 4%;
+	font-size: 18px;
+	color: black;
+	font-weight: 500;
+	text-align: left;
+}
+
+.career3{
+	position: absolute;
+	top: 67%;
+	left: 0%;
+	font-size: 40px;
+	color: black;
+	font-weight: bolder;
+}
+
+.career4{
+	position: absolute;
+	top: 75%;
+	left: 2%;
+	font-size: 18px;
+	color: black;
+	font-weight: 500;
+	text-align: left;
+}
+
+.career5{
+
+	position: absolute;
+	top: 91%;
+	left: 0%;
+	font-size: 40px;
+	color: black;
+	font-weight: bolder;
+}
+
+.career6{
+
+	position: absolute;
+	top: 100%;
+	left: 2%;
+	font-size: 18px;
+	color: black;
+	font-weight: 500;
+	text-align: left;
+}
+
+.career7{
+	
+	position: absolute;
+	top: 111%;
+	left: 0%;
+	font-size: 40px;
+	color: black;
+	font-weight: bolder;
+	text-align: center;
+}
+
+.career8{
+	
+	position: absolute;
+	top: 120%;
+	left: 2%;
+	font-size: 18px;
+	color: black;
+	font-weight: 500;
+	text-align: left;
+}
+
+.career9{
+
+	position: absolute;
+	top: 74%;
+	left: 1%;
+	font-size: 40px;
+	color:black;
+	font-weight: bolder;
+}
+
+.career10{
+	
+	position: absolute;
+	top: 82%;
+	left: 1%;
+	right: 30%;
+	font-size: 20px;
+	color: black;
+	font-weight: 500;
+	text-align: left;
+}
+
+
+
+.project2{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	position: absolute;
+	top: 15%;
+	left: 1%;
+	font-size: 30px;
+	color: black;
+	font-weight: bolder;
+}
+
+.project3{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	position: absolute;
+	top: 44%;
+	/* left: 60%; */
+	left: 1%;
+	font-size: 30px;
+	color: black;
+	font-weight: bolder;
+}
+
+
+.project_para2{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	position: absolute;
+	top: 23%;
+	left: 5%;
+	font-size: 20px;
+	color: black;
+	font-weight: 500;
+	text-align: left;
+}
+
+.project_para3{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	position: absolute;
+	top: 51%;
+	/* left: 3%; */
+
+	left: 5%;
+	font-size: 20px;
+	color:black;
+	font-weight: 500;
+	text-align: left;
+}
+
+
+.projectp2{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	position: absolute;
+	top: 36%;
+	left: 1%;
+	
+	font-size: 20px;
+	color: black;
+	font-weight: 500;
+	text-align: left;
+}
+
+.projectp3{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	position: absolute;
+	top: 63%;
+	left: 1%;
+	right: 1%;
+	font-size: 20px;
+	color: black;
+	font-weight: 500;
+	text-align: left;
+}
+
+.project4{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	position: absolute;
+	top: 68%;
+	left: 1%;
+	font-size: 30px;
+	color: black;
+	font-weight: bolder;
+}
+.project5{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	position: absolute;
+	top: 93%;
+	left: 1%;
+	font-size: 30px;
+	color: black;
+	font-weight: bolder;
+}
+.project6{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	position: absolute;
+	top: 120%;
+	/* left: 1%; */
+	left: 1%;
+	font-size: 30px;
+	color:black;
+	font-weight: bolder;
+}
+.project_para4{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	position: absolute;
+	top: 75%;
+	left: 5%;
+	right: 70%;
+	font-size: 20px;
+	color: black;
+	font-weight: 500;
+	text-align: left;
+}
+.project_para5{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	position: absolute;
+	top: 101%;
+	left: 5%;
+	
+	font-size: 20px;
+	color: black;
+	font-weight: 500;
+	text-align: left;
+}
+.project_para6{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	position: absolute;
+	top: 127%;
+	/* left: 3%; */
+	left: 5%;
+	font-size: 20px;
+	color:black;
+	font-weight: 500;
+	text-align: left;
+}
+.projectp4{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	position: absolute;
+	top: 87%;
+	left: 1%;
+	
+	font-size: 20px;
+	color: black;
+	font-weight: 500;
+	text-align: left;
+}
+.projectp5{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	position: absolute;
+	top: 113%;
+	left: 1%;
+	right: 35%;
+	font-size: 20px;
+	color: black;
+	font-weight: 500;
+	text-align: left;
+}
+.projectp6{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	position: absolute;
+	top: 139%;
+	left: 1%;
+	right: 1%;
+	font-size: 20px;
+	color: black;
+	font-weight: 500;
+	text-align: left;
+}
+
+
+
+
+.project_para7{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	position: absolute;
+	top: 150%;
+	/* left: 3%; */
+
+	left: 1%;
+	font-size: 20px;
+	color: #f1f5f4;
+	font-weight: 500;
+	text-align: left;
+}
+
+.project_para8{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	position: absolute;
+	top: 165%;
+	left: 1%;
+	
+	font-size: 20px;
+	color: #f1f5f4;
+	font-weight: 500;
+	text-align: left;
+}
+.git {
+  
+	position: absolute;
+	top: 15%;
+	left: 11%;
+
+}
+.link {
+  
+	position: absolute;
+	top: 35%;
+	left: 10%;	
+ 
+}
+.hack {
+  
+	position: absolute;
+	top: 55%;
+	left: 10%;
+
+	
+ 
+}
